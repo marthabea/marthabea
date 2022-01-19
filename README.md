@@ -3,7 +3,8 @@
 - 👾 Atualmente estou procurando uma primeira oportunidade
 - 🐍 Estudando sobre Python 
 - 🎮 Pronomes: ela/dela
-- 🤖 3 fatos sobre mim: amo falar, adoro gatos e amo café
+- 🤖 3 fatos sobre mim: amo falar, adoro gatos e amo 
+-  📩 e-mail para contato: marthinhabeatriz@gmail.com
 ##
  
 <div> 
