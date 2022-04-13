@@ -1,7 +1,6 @@
  ##   Eai, eu sou a Martha!
 
-- 👾 Atualmente estou procurando uma primeira oportunidade
-- 🐍 Estudando sobre Python 
+- 🐍 Estudando sobre Desenvolvimento Web com Python 
 - 🎮 Pronomes: ela/dela
 - 🤖 3 fatos sobre mim: amo falar, adoro gatos e amo café
 -  📩 e-mail para contato: marthinhabeatriz@gmail.com
