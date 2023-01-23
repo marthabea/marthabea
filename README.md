@@ -1,9 +1,8 @@
- ##   Eai, eu sou a Martha!
+ ##   Hi, my name is Martha!
 
-- 🐍 Estudando sobre Desenvolvimento Web com Python 
+- 🐍 Estudando desenvolvimento RPA com Python 
 - 🎮 Pronomes: ela/dela
-- 🤖 3 fatos sobre mim: amo falar, adoro gatos e amo café
--  📩 e-mail para contato: marthinhabeatriz@gmail.com
+-  📩 e-mail para contato: marthabeatrizsiq@gmail.com
 ##
  
 <div> 
