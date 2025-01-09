@@ -18,16 +18,16 @@ Analista de Software com mais de 2 anos de experiência, sou certificada por gra
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com.br%2Ficons%2Fset%2Fpython&psig=AOvVaw23lQFnaSvOG88hGHyLVcMU&ust=1736520855355000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjk0rfy6IoDFQAAAAAdAAAAABAE" alt="Python"/></code>
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.automationanywhere.com%2Fbr%2Flegal%2Ftrademark&psig=AOvVaw1JUfATQ79xhtbtU2oUiKHN&ust=1736520908420000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODxo9Ty6IoDFQAAAAAdAAAAABAE" alt="Automation Anywhere"/></code>
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foneflow.com%2Fintegrations%2Fmicrosoft-power-automate%2F&psig=AOvVaw3K6PXzmJfWwO6v1IO2eA5C&ust=1736520981871000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiOhvTy6IoDFQAAAAAdAAAAABAJ" alt="Power Automate"/></code>
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ANew_Power_BI_Logo.svg&psig=AOvVaw2TWX-Ym0SgGcHan9z4AOY3&ust=1736521053385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj4wZrz6IoDFQAAAAAdAAAAABAJ" alt="Power BI"/></code>
-<code><img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9mvc8p1q3b29%3Fhl%3Dpt-BR%26gl%3DBR&psig=AOvVaw1CM4CZR8v3_uRQEnHWSex6&ust=1736521086714000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDX5Kbz6IoDFQAAAAAdAAAAABAQ" alt="Power Apps"/></code>
+<img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com.br%2Ficons%2Fset%2Fpython&psig=AOvVaw23lQFnaSvOG88hGHyLVcMU&ust=1736520855355000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjk0rfy6IoDFQAAAAAdAAAAABAE" alt="Python"/>
+<img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.automationanywhere.com%2Fbr%2Flegal%2Ftrademark&psig=AOvVaw1JUfATQ79xhtbtU2oUiKHN&ust=1736520908420000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODxo9Ty6IoDFQAAAAAdAAAAABAE" alt="Automation Anywhere"/>
+<img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foneflow.com%2Fintegrations%2Fmicrosoft-power-automate%2F&psig=AOvVaw3K6PXzmJfWwO6v1IO2eA5C&ust=1736520981871000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiOhvTy6IoDFQAAAAAdAAAAABAJ" alt="Power Automate"/>
+<img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ANew_Power_BI_Logo.svg&psig=AOvVaw2TWX-Ym0SgGcHan9z4AOY3&ust=1736521053385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj4wZrz6IoDFQAAAAAdAAAAABAJ" alt="Power BI"/>
+<img height="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9mvc8p1q3b29%3Fhl%3Dpt-BR%26gl%3DBR&psig=AOvVaw1CM4CZR8v3_uRQEnHWSex6&ust=1736521086714000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDX5Kbz6IoDFQAAAAAdAAAAABAQ" alt="Power Apps"/>
 
 ---
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marthabeacode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marthabea&show_icons=true)
 
   
