@@ -18,7 +18,7 @@ Analista de RPA com mais de **2 anos de experiência**, sou certificada por gran
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://github.com/user-attachments/assets/16f2ae11-5994-4a82-8357-2ec2135e80a9"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/13ec235b-d50d-4eb5-8c43-50bde64be15d"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/287fe025-438b-44b8-8880-d21a7a9046da"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/dd74c160-9f45-4c6b-9ec8-0167dce47c46"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/5c6ee9f8-d891-4c22-aea9-13ad315afd94"/></code>
