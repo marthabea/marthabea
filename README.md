@@ -18,14 +18,7 @@ Analista de RPA com mais de 2 anos de experiência, sou certificada por grandes 
 
 ## 🚀 Minhas Skills
 
-![image](https://github.com/user-attachments/assets/16f2ae11-5994-4a82-8357-2ec2135e80a9)
-![image](https://github.com/user-attachments/assets/287fe025-438b-44b8-8880-d21a7a9046da)
-![image](https://github.com/user-attachments/assets/dd74c160-9f45-4c6b-9ec8-0167dce47c46)
-![image](https://github.com/user-attachments/assets/5c6ee9f8-d891-4c22-aea9-13ad315afd94)
-![image](https://github.com/user-attachments/assets/734e682c-abf0-46e2-91f4-be87a1351602)
-![image](https://github.com/user-attachments/assets/93ef4fb1-589a-4b31-a7f4-7a30bb23db8c)
-![image](https://github.com/user-attachments/assets/1997b611-a850-4c57-8069-3ec523f70b9e)
-
+<code><img height="32" src="https://github.com/user-attachments/assets/16f2ae11-5994-4a82-8357-2ec2135e80a9" alt="Python"/></code>
 
 
 
