@@ -2,6 +2,8 @@
 
 Analista de RPA com mais de 2 anos de experiência, sou certificada por grandes empresas como Microsoft e Automation Anywhere. Me considero uma pessoa curiosa, que ama resolver problemas complexos e compartilhar conhecimento com outras pessoas. As tecnologias que possuo expertise são Automation Anywhere, Python e Power Platform (Power BI, Power Apps, Power Automate etc).
 
+---
+
 🔭 **Extensionista no projeto HUB de Tecnologia Social e Inteligência de Dados:** Atualmente, faço parte do desenvolvimento do projeto Mobile "Aplicativo Reartsol". O objetivo da solução é desenvolver uma aplicação para atender às necessidades das paróquias da Arquidiocese de Belo Horizonte relacionadas ao gerenciamento de seus recursos e doações, bem como possibilitar o cadastro de famílias beneficiadas, a comunicação entre membros e visualização de relatórios que apoiam tomadas de decisão.
 
 🔭 **Desenvolvedora do projeto LowCode "Patinhas e Focinhos":** Criado na plataforma de automação de processos SydleOne. O projeto tinha como objetivo principal combater o abandono e a superpopulação de animais no país. Para isso, foi desenvolvido um formulário online que registrava as características dos animais disponíveis para adoção. Paralelamente, adotantes interessados também eram cadastrados com informações pessoais, requisitos e compromissos assumidos no processo de adoção. 
@@ -23,7 +25,3 @@ Analista de RPA com mais de 2 anos de experiência, sou certificada por grandes 
 <code><img height="32" src="https://github.com/user-attachments/assets/734e682c-abf0-46e2-91f4-be87a1351602"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/93ef4fb1-589a-4b31-a7f4-7a30bb23db8c"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/1997b611-a850-4c57-8069-3ec523f70b9e"/></code>
-
-
-
-  
