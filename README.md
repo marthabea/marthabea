@@ -8,11 +8,11 @@ Analista de RPA com mais de **2 anos de experiência**, sou certificada por gran
 
 🔭 **Desenvolvedora do projeto LowCode "Patinhas e Focinhos":** Criado na plataforma de automação de processos SydleOne. O projeto tinha como objetivo principal combater o abandono e a superpopulação de animais no país. Para isso, foi desenvolvido um formulário online que registrava as características dos animais disponíveis para adoção. Paralelamente, adotantes interessados também eram cadastrados com informações pessoais, requisitos e compromissos assumidos no processo de adoção. 
 
-> Link para o projeto: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t2-patinhasfocinhos
+> Link para o projeto: [Patinhas e Focinhos] (https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t2-patinhasfocinhos)
 
 🔭 **Desenvolvedora do projeto "Neurokids":** Aplicação web criada com HTML, CSS e JavaScript. O principal objetivo do projeto é conscientizar pais, educadores e demais interessados sobre o conceito de neurodiversidade. Além disso, a plataforma oferece apoio a crianças neurodiversas por meio de atividades planejadas, geração de insights e diversos recursos voltados para o desenvolvimento e inclusão.
 
-> Link para o projeto: https://icei-puc-minas-pmv-si.github.io/pmv-si-2023-2-pe1-t2-neurodiversidade/src/
+> Link para o projeto: [Neurokids] (https://icei-puc-minas-pmv-si.github.io/pmv-si-2023-2-pe1-t2-neurodiversidade/src/)
 
 ---
 
