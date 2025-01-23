@@ -27,4 +27,4 @@ Aplicação web criada com HTML, CSS e JavaScript. O principal objetivo do proje
 <code><img height="32" src="https://github.com/user-attachments/assets/734e682c-abf0-46e2-91f4-be87a1351602"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/93ef4fb1-589a-4b31-a7f4-7a30bb23db8c"/></code>
 <code><img height="32" src="https://github.com/user-attachments/assets/1997b611-a850-4c57-8069-3ec523f70b9e"/></code>
-<code><img height="32" src="https://github.com/user-attachments/assets/cc38258f-762c-4456-84ae-1e28230e94e5"/></code>
+<code><img height="32" src="https://github.com/user-attachments/assets/a0b3bebd-f8b7-4a7b-a5ad-e4eac8b61d02"/></code>
