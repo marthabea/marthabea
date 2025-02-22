@@ -1,6 +1,8 @@
 # 👾 Bem vindo (a), eu sou a Martha!
 
-Analista de RPA com mais de **2 anos de experiência**, destacando-se pela participação no contrato RPA Petrobras, sou certificada por grandes empresas como **Microsoft** e **Automation Anywhere**. Me considero uma pessoa curiosa, que ama **resolver problemas complexos** e **compartilhar conhecimento** com outras pessoas. As tecnologias que possuo expertise são Automation Anywhere, Python e Power Platform (Power BI, Power Apps, Power Automate etc).
+Analista de RPA com mais de **2 anos de experiência**, destacando-se pela participação no contrato RPA Petrobras, sou certificada por grandes empresas como **Microsoft** e **Automation Anywhere**. 
+
+Me considero uma pessoa curiosa, que ama **resolver problemas complexos** e **compartilhar conhecimento** com outras pessoas. As tecnologias que possuo expertise são Automation Anywhere, Python e Power Platform (Power BI, Power Apps, Power Automate etc).
 
 ---
 
